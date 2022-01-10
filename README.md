@@ -1,4 +1,4 @@
-# tpl-vue-subapp
+# vue-subapp-template
 
 ## Project setup
 ```
