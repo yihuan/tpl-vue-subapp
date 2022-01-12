@@ -1,4 +1,10 @@
-# My app
+# Vue sub app template of microfrontend using [qiankun](https://qiankun.umijs.org/)
+It contains:
+- Vuex installed
+- Vue, VueRouter and ElementUI imported with CDN
+- API calling and service structure
+- Stylus support
+- Lifecycle of `qiankun` and related settings configured and ready to use
 
 ## Project setup
 ```
